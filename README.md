@@ -1,6 +1,6 @@
 # Iceberg-Detection-in-Satellite-images
 
-Iceberg detection is more critical in previous research. High-quality satellite monitoring of dangerous ice formations is critical to navigation safety and economic activity in the regions. Satellite images play a crucial role in the identification of icebergs. It is based on the satellite dataset for target classification and target identification. The iceberg detection is based on the statistical criteria for finding the satellite images. This CNN-based model is used to identify automatically whether is remote sensed target is an iceberg or not. Sometimes the iceberg is wrongly classified as a ship. This model is done to make accurate changes in the detection. The pygame is used to simulate the results
+Accurate and timely iceberg detection is crucial for maritime safety and economic activities in polar regions. This Project focuses on developing a robust iceberg detection system utilizing satellite imagery. A CNN-based model is employed to classify remote sensing targets as icebergs or ships, addressing the common challenge of misclassification. To enhance the system's practical application, a Pygame-based simulation environment is created for visualizing detected icebergs. Furthermore, an A* algorithm is integrated to determine the shortest safe path between two points, avoiding identified icebergs and ships.
 
 Tech Stack:
 * Python
